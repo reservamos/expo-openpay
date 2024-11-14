@@ -1,0 +1,19 @@
+{
+  "name": "expo-openpay",
+  "version": "1.0.0",
+  "description": "Openpay library for expo projects.",
+  "main": "src/openpay.js",
+  "module": "src/openpay.js",
+  "repository": "https://github.com/reservamos/expo-openpay",
+  "author": "ErnestoVM",
+  "license": "MIT",
+  "dependencies": {
+    "expo": "^52.0.6",
+    "expo-constants": "^17.0.3",
+    "js-base64": "^3.7.7",
+    "snakeize": "^0.1.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
