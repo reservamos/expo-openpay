@@ -15,5 +15,14 @@
   },
   "engines": {
     "node": ">=18"
+  },
+  "resolutions": {
+    "@expo/cli/glob": "^10.5.0",
+    "@expo/config-plugins/glob": "^10.5.0",
+    "@expo/config/glob": "^10.5.0",
+    "@expo/devcert/glob": "^10.5.0",
+    "expo-modules-autolinking/glob": "^10.5.0",
+    "cacache/glob": "^10.5.0",
+    "sucrase/glob": "^10.5.0"
   }
 }
